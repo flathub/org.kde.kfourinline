@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/kfourinline-22.04.2.tar.xz",
-                    "sha256": "2b1be63a913a2b9e653b90d10649e852830c003da50999ad4a0cff201fc89065",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/kfourinline-22.04.3.tar.xz",
+                    "sha256": "27f59c9006d76764d8e8d51d31acad964983661fa0c8c4e0224151b5528c6a98",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
