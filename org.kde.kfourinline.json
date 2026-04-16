@@ -26,8 +26,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/libkdegames-25.12.3.tar.xz",
-                    "sha256": "64605a58b087a57dc504d8e7fa4d637b4d59fb91ba1b4ed60f96fc78568f141c",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/libkdegames-26.04.0.tar.xz",
+                    "sha256": "12d615bc466bbdff4e85336d9cab6453dda8b4b20c8a48b74c49ec89e70d76bd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -43,8 +43,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kfourinline-25.12.3.tar.xz",
-                    "sha256": "104c73e8c98b107f249f1e7a81cada2563cf1b748ffd9190333705143d95b3de",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/kfourinline-26.04.0.tar.xz",
+                    "sha256": "3164c1eb0ea3b3724a85f9bbd96b98c1791ef063e2bd48bf6da8c32ab8c1f386",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
